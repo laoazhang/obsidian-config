@@ -18,7 +18,6 @@
     "FolderAndFile",
     "Editor",
     "CodeBlock",
-    "Background",
-    "BackgroundGrid"
+    "Background"
   ]
 }
