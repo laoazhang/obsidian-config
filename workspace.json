@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3171cc6ed5ef1348",
+        "id": "9d5d8d4cd38ab02f",
         "type": "tabs",
         "children": [
           {
-            "id": "f845ee2416b7d35a",
+            "id": "861b99b517013d12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Obsidian Plugin.md",
+                "file": "posts/常用笔记软件推荐.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,29 +89,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16fbe0dece84d3c4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "posts/不知道放在哪里就先放这里好了.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "81c863a3be98d739",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Obsidian Plugin.md",
+                "file": "posts/常用笔记软件推荐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,17 +112,7 @@
             }
           },
           {
-            "id": "fe7b198439ca8666",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "posts/不知道放在哪里就先放这里好了.md"
-              }
-            }
-          },
-          {
-            "id": "00ee3f8016b2ae6a",
+            "id": "c63dc7586a7a0207",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -147,7 +120,7 @@
             }
           },
           {
-            "id": "d3f0df1ec87f9d2f",
+            "id": "394c0d5e25c5dad1",
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
@@ -155,14 +128,14 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
-        "id": "2ea105c935b27dcd",
+        "id": "048b5062ba018a7f",
         "type": "tabs",
         "children": [
           {
-            "id": "163069da99b8fa7e",
+            "id": "e2d80e03a2ee3784",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -177,7 +150,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -187,20 +159,21 @@
       "workspaces:管理工作区布局": false,
       "float-search:Search Obsidian In Modal": false,
       "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "fuzzy-chinese-pinyin:FuzzySearch": false,
       "obsidian-memos:Thino": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f845ee2416b7d35a",
+  "active": "861b99b517013d12",
   "lastOpenFiles": [
-    "posts/Obsidian.md",
+    "posts/不知道放在哪里就先放这里好了.md",
     "posts/Obsidian 中的 Callout 和 Admonition.md",
     "posts/Obsidian Plugin.md",
     "2024/04月/04-12 周五.md",
+    "posts/Obsidian.md",
     "2024/04月",
     "2024",
-    "posts/不知道放在哪里就先放这里好了.md",
     "posts/常用笔记软件推荐.md",
     "Welcome.md",
     "数据库/Redis/redis配置.assets/image-20220526085139650.png",

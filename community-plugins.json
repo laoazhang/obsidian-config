@@ -19,5 +19,7 @@
   "obsidian-image-toolkit",
   "omnisearch",
   "cm-chs-patch",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-vimrc-support",
+  "dataview"
 ]
