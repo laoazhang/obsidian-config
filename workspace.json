@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "7b136b82f6f4f028",
+    "type": "split",
+    "children": [
+      {
+        "id": "3171cc6ed5ef1348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f845ee2416b7d35a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/Obsidian.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ecd0cc06df8fb7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8b4656bc2f6b12e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb5354af5e0918bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f77c1cfc7ba06125",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5ddc89c88addce2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "884e238190fe5a9f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d0bc5d7e47ee12d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaa68f87d1dcbea2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16fbe0dece84d3c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/不知道放在哪里就先放这里好了.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81c863a3be98d739",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49481c1023df5190",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe7b198439ca8666",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/不知道放在哪里就先放这里好了.md"
+              }
+            }
+          },
+          {
+            "id": "00ee3f8016b2ae6a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3f0df1ec87f9d2f",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "2ea105c935b27dcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "163069da99b8fa7e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "float-search:Search Obsidian In Modal": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "fuzzy-chinese-pinyin:FuzzySearch": false,
+      "obsidian-memos:Thino": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "f845ee2416b7d35a",
+  "lastOpenFiles": [
+    "posts/Obsidian 中的 Callout 和 Admonition.md",
+    "posts/Obsidian Plugin.md",
+    "posts/Obsidian.md",
+    "2024/04月/04-12 周五.md",
+    "2024/04月",
+    "2024",
+    "posts/不知道放在哪里就先放这里好了.md",
+    "posts/常用笔记软件推荐.md",
+    "Welcome.md",
+    "数据库/Redis/redis配置.assets/image-20220526085139650.png",
+    "数据库/Redis/redis配置.assets/image-20220526085125525.png",
+    "数据库/Redis/redis配置.assets/image-20220526085115053.png",
+    "数据库/Redis/redis配置.assets/image-20220526085059728.png",
+    "数据库/数据库锁表处理方法/数据库锁表l解锁方法.md",
+    "数据库/Redis/redis配置.md",
+    "数据库/Redis/redis配置.assets",
+    "数据库/数据库锁表处理方法",
+    "数据库/常用SQL语句.md",
+    "数据库/Redis",
+    "数据库/Oracle",
+    "数据库/Mysql",
+    "数据库",
+    "数据存储&短信&邮件/阿里云短信",
+    "数据存储&短信&邮件/七牛云存储",
+    "面试题目汇总/2021.2.24河南讯宜捷科技公司.md",
+    "后端/Spring全家桶/SpringCache/assets/image-20210824000057260.png",
+    "后端/Spring全家桶/SpringCache/assets/image-20210823235822139.png",
+    "后端/Spring全家桶/SpringCache/assets/image-20210823235612400.png",
+    "后端/Spring全家桶/SpringCache/assets/image-20210823234146526.png",
+    "后端/Spring全家桶/SpringCache/assets/image-20210823233904520.png",
+    "后端/Spring全家桶/SpringCache/assets/image-20210823233514356.png",
+    "后端/消息队列中间件/RabbitMQ/概念.md",
+    "后端/Spring全家桶/SpringCache/SpringCache案例配置.md",
+    "后端/Spring全家桶/SpringBoot/4.SpringBoot配置.md",
+    "后端/Spring全家桶/SpringBoot/3.SpringBoot起步依赖分析.md",
+    "后端/Spring全家桶/SpringBoot/1.SpringBoot概述.md",
+    "后端/Spring全家桶/SpringBoot/2.SpringBoot快速入门.md",
+    "后端/Spring全家桶/Spring/Untitled.md",
+    "后端/Nginx/nginx.md",
+    "posts/要记得学.md",
+    "posts/英语音标记录.md",
+    "posts/英语随记.md",
+    "posts/英语学习阶段.md",
+    "posts/英语发音技巧.md",
+    "posts/看完文章想写点东西.md",
+    "posts/直播项目服务配置.md"
+  ]
+}

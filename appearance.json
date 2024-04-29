@@ -1,0 +1,24 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "X-Vim",
+    "X-Memos",
+    "X-CheckList",
+    "X-AnuExtendTheme",
+    "X-Calendar",
+    "Title",
+    "Table",
+    "Tab",
+    "Search",
+    "Scrollbar",
+    "Quote",
+    "List",
+    "Picture",
+    "Link",
+    "FolderAndFile",
+    "Editor",
+    "CodeBlock",
+    "Background",
+    "BackgroundGrid"
+  ]
+}

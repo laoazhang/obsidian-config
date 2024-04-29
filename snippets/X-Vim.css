@@ -1,0 +1,26 @@
+div.status-bar-item.plugin-obsidian-vimrc-support {
+  /* Papercolor theme */
+  --text-color-normal: #585858;
+  --text-color-insert: #005f87;
+  --text-color-visual: white;
+  --text-color-replace: white;
+  --background-color-normal: #eeeeee;
+  --background-color-insert: #eeeeee;
+  --background-color-visual: #d75f00;
+  --background-color-replace: #d70087;
+}
+
+div.status-bar-item.plugin-obsidian-vimrc-support {
+  order: -9999;
+  margin: -4px auto -5px -5px;
+
+  padding-right: 0px;
+  padding-left: 1em;
+
+  font-family: 'Maple Mono SC NF Freeze';
+  font-weight: bold;
+  font-size: 1.2em;
+
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}

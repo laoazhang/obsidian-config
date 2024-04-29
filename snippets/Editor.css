@@ -1,0 +1,94 @@
+body {
+  /* 一些颜色 */
+  --gray-0: #eceff4;
+  --gray-1: #d8dee9;
+  --gray-2: #d5d8de;
+  --gray-3: #abb2bd;
+
+  --dark-0: #2e3440;
+  --dark-1: #3b4252;
+  --dark-2: #434c5e;
+  --dark-3: #4e5768;
+
+  /* 侧边栏目录文件名称、图标字体大小 */
+  --nav-item-size: 1em;
+  --font-ui-medium: 1em;
+  --font-ui-small: 0.94em;
+  --font-ui-smaller: 0.88em;
+  --bold-color: var(--color-accent) !important;
+  /* 底部右侧状态栏 */
+  --status-bar-font-size: 14px;
+  /* 增加栏宽的固定宽度 */
+  --file-line-width: 720px;
+  --blank-line-height: 0.5;
+  --hover-color: hsla(var(--color-accent-hsl), 0.4);
+  --background-modifier-border-focus: var(--color-accent) !important;
+}
+
+body.theme-dark {
+  --interactive-accent: #86dfba !important;
+  --bold-color: #86dfba !important;
+}
+
+/* 链接 */
+.cm-link,
+.cm-link .cm-underline,
+.external-link,
+.external-link .cm-underline {
+  text-decoration: none !important;
+}
+
+.cm-link:hover,
+.cm-link .cm-underline:hover,
+.external-link:hover,
+.external-link .cm-underline:hover {
+  opacity: 1;
+  text-decoration: underline !important;
+}
+
+/* Vim 光标动画 */
+.cm-fat-cursor {
+  transition: 48ms linear;
+}
+
+/* 编辑模式 */
+.workspace-leaf-content[data-mode='source'] .view-content > .cm-s-obsidian > .cm-editor > .cm-scroller,
+/* 预览模式 */
+.markdown-preview-view {
+  padding: 0 10% 0 5%;
+  padding-top: 48px;
+}
+
+/* === 链接 === */
+/* 部分主题下给悬停链接动画加个补丁，当光标在链接行的时候，降低透明度 */
+.cm-underline:hover,
+.external-link:hover {
+  opacity: 0.8;
+}
+
+/* === 切换 === */
+.theme-dark .checkbox-container {
+  background-color: #313243;
+}
+.theme-dark .checkbox-container.is-enabled {
+  background-color: #86dfba;
+}
+
+/* === 内嵌代码块 === */
+/* 比如 `code` 这样 */
+.markdown-rendered code,
+.cm-s-obsidian span.cm-inline-code {
+  background-color: #e8e8e8;
+}
+
+.theme-dark .markdown-rendered code,
+.theme-dark .cm-s-obsidian span.cm-inline-code {
+  background-color: #111119;
+}
+
+/* === 粗体 === */
+b,
+strong,
+.cm-strong {
+  color: var(--bold-color) !important;
+}
