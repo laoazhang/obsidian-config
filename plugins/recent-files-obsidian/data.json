@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "常用笔记软件推荐",
-      "path": "posts/常用笔记软件推荐.md"
+      "basename": "RabbitMQ",
+      "path": "必备八股文/RabbitMQ.md"
     },
     {
-      "basename": "不知道放在哪里就先放这里好了",
-      "path": "posts/不知道放在哪里就先放这里好了.md"
+      "basename": "Java基础常见面试题",
+      "path": "必备八股文/Java基础常见面试题.md"
     },
     {
-      "basename": "Obsidian 中的 Callout 和 Admonition",
-      "path": "posts/Obsidian 中的 Callout 和 Admonition.md"
+      "basename": "2021.2.24河南讯宜捷科技公司",
+      "path": "必备八股文/2021.2.24河南讯宜捷科技公司.md"
     },
     {
-      "basename": "Obsidian Plugin",
-      "path": "posts/Obsidian Plugin.md"
+      "basename": "看完文章想写点东西",
+      "path": "posts/看完文章想写点东西.md"
     },
     {
       "basename": "04-12 周五",
       "path": "2024/04月/04-12 周五.md"
     },
     {
+      "basename": "不知道放在哪里就先放这里好了",
+      "path": "posts/不知道放在哪里就先放这里好了.md"
+    },
+    {
+      "basename": "Obsidian Plugin",
+      "path": "posts/Obsidian Plugin.md"
+    },
+    {
+      "basename": "Obsidian 中的 Callout 和 Admonition",
+      "path": "posts/Obsidian 中的 Callout 和 Admonition.md"
+    },
+    {
       "basename": "Obsidian",
       "path": "posts/Obsidian.md"
+    },
+    {
+      "basename": "常用笔记软件推荐",
+      "path": "posts/常用笔记软件推荐.md"
     },
     {
       "basename": "12-28 周四",
@@ -179,26 +195,6 @@
     {
       "basename": "12-22 周五",
       "path": "2023/12月/12-22 周五.md"
-    },
-    {
-      "basename": "12-23 周六",
-      "path": "2023/12月/12-23 周六.md"
-    },
-    {
-      "basename": "12-20 周三",
-      "path": "2023/12月/12-20 周三.md"
-    },
-    {
-      "basename": "12-26 周二",
-      "path": "2023/12月/12-26 周二.md"
-    },
-    {
-      "basename": "2023 看完的书",
-      "path": "public-note/notes/2023 看完的书.md"
-    },
-    {
-      "basename": "12-25 周一",
-      "path": "2023/12月/12-25 周一.md"
     }
   ],
   "omittedPaths": [],

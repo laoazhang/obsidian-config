@@ -11,13 +11,8 @@
             "id": "861b99b517013d12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/常用笔记软件推荐.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/常用笔记软件推荐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,31 +144,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
       "float-search:Search Obsidian In Modal": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "fuzzy-chinese-pinyin:FuzzySearch": false,
       "obsidian-memos:Thino": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "861b99b517013d12",
+  "active": "fb5354af5e0918bd",
   "lastOpenFiles": [
+    "Idea",
+    "Key",
+    "实用小脚本",
+    "公务员养成之路",
+    "咸鱼翻身笔记本",
+    "网页保存学习",
+    "图书馆",
+    "白日梦",
+    "必备八股文/RabbitMQ.md",
+    "个人菜谱/肉丝炒面.md",
+    "个人菜谱/啤酒炒鸡.md",
+    "个人菜谱/蒸面条.md",
+    "必备八股文/Java基础常见面试题.md",
+    "必备八股文/2021.2.24河南讯宜捷科技公司.md",
+    "posts/看完文章想写点东西.md",
+    "必备八股文/RabbitMQ afe9c6b0415842a3b26d7aff807e27f2.md",
     "posts/不知道放在哪里就先放这里好了.md",
-    "posts/Obsidian 中的 Callout 和 Admonition.md",
     "posts/Obsidian Plugin.md",
-    "2024/04月/04-12 周五.md",
+    "posts/Obsidian 中的 Callout 和 Admonition.md",
     "posts/Obsidian.md",
+    "posts/常用笔记软件推荐.md",
+    "2024/04月/04-12 周五.md",
     "2024/04月",
     "2024",
-    "posts/常用笔记软件推荐.md",
     "Welcome.md",
     "数据库/Redis/redis配置.assets/image-20220526085139650.png",
     "数据库/Redis/redis配置.assets/image-20220526085125525.png",
@@ -183,35 +193,19 @@
     "数据库/数据库锁表处理方法/数据库锁表l解锁方法.md",
     "数据库/Redis/redis配置.md",
     "数据库/Redis/redis配置.assets",
-    "数据库/数据库锁表处理方法",
     "数据库/常用SQL语句.md",
-    "数据库/Redis",
-    "数据库/Oracle",
-    "数据库/Mysql",
-    "数据库",
-    "数据存储&短信&邮件/阿里云短信",
-    "数据存储&短信&邮件/七牛云存储",
-    "面试题目汇总/2021.2.24河南讯宜捷科技公司.md",
     "后端/Spring全家桶/SpringCache/assets/image-20210824000057260.png",
     "后端/Spring全家桶/SpringCache/assets/image-20210823235822139.png",
     "后端/Spring全家桶/SpringCache/assets/image-20210823235612400.png",
     "后端/Spring全家桶/SpringCache/assets/image-20210823234146526.png",
     "后端/Spring全家桶/SpringCache/assets/image-20210823233904520.png",
     "后端/Spring全家桶/SpringCache/assets/image-20210823233514356.png",
-    "后端/消息队列中间件/RabbitMQ/概念.md",
-    "后端/Spring全家桶/SpringCache/SpringCache案例配置.md",
-    "后端/Spring全家桶/SpringBoot/4.SpringBoot配置.md",
-    "后端/Spring全家桶/SpringBoot/3.SpringBoot起步依赖分析.md",
-    "后端/Spring全家桶/SpringBoot/1.SpringBoot概述.md",
-    "后端/Spring全家桶/SpringBoot/2.SpringBoot快速入门.md",
-    "后端/Spring全家桶/Spring/Untitled.md",
-    "后端/Nginx/nginx.md",
-    "posts/要记得学.md",
-    "posts/英语音标记录.md",
-    "posts/英语随记.md",
-    "posts/英语学习阶段.md",
-    "posts/英语发音技巧.md",
-    "posts/看完文章想写点东西.md",
-    "posts/直播项目服务配置.md"
+    "后端学习笔记/消息队列中间件/RabbitMQ/概念.md",
+    "后端学习笔记/Spring全家桶/SpringCache/SpringCache案例配置.md",
+    "后端学习笔记/Spring全家桶/SpringBoot/4.SpringBoot配置.md",
+    "后端学习笔记/Spring全家桶/SpringBoot/3.SpringBoot起步依赖分析.md",
+    "后端学习笔记/Spring全家桶/SpringBoot/1.SpringBoot概述.md",
+    "后端学习笔记/Spring全家桶/SpringBoot/2.SpringBoot快速入门.md",
+    "后端学习笔记/Spring全家桶/Spring/Untitled.md"
   ]
 }
